@@ -15,22 +15,26 @@
 **Back-end & Database:**
 <br>
 ![](https://img.shields.io/badge/PostgreSQL-A61690?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Linux-A61690?style=for-the-badge&logo=linux&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/Dockerㅤ-B51F9F?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Redis-B51F9F?style=for-the-badge&logo=redis&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/SQLite-E317C4?style=for-the-badge&logo=sqlite&logoColor=white)
 ---
 **Python Frameworks (Bot & DB Architecture):**
 
 ![](https://img.shields.io/badge/aiogram-A61660?style=for-the-badge)
-*  Developing Asynchronous Telegram Bots
-*  State Management (FSM)
-*  Implementation of P2P game logic
- 
-![](https://img.shields.io/badge/SQLAlchemy-871285?style=for-the-badge)<br>
-*  ORM and migration configuration<br>
-*  Database session management<br>
-*  Designing user data storage architecture
+*  **Event-Driven Architecture:** Designing scalable bots using Dependency Injection and the Service Layer pattern (Separation of Concerns).
+*  **Advanced State Management:** Implementing complex interactive flows and asynchronous P2P game mechanics using FSM.
+---
+**![](https://img.shields.io/badge/SQLAlchemy-871285?style=for-the-badge)**
+![](https://img.shields.io/badge/&-871285?style=for-the-badge)
+![](https://img.shields.io/badge/Alembic-871285?style=for-the-badge)
+<br>
+*  **Transaction Safety:** Enforcing ACID principles and mitigating Race Conditions in financial operations.
+*  **Async Database Operations:** Safe session management and query execution in highly concurrent environments.
+*  **Data Modeling & Migrations:** Designing robust relational schemas and managing database evolutions with Alembic.
 ---
 **Tools & Environment:**
 <br>
