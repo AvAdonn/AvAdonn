@@ -1,7 +1,10 @@
 # Ave!❤️‍🩹 I`m Nazarii.
-📌Young developer, applied mathematics student
+📌Backend Python Developer | Applied mathematics student<br>
+> [!TIP]
+> I specialize in building high-performance, asynchronous backend applications and Telegram bots. > With a strong foundation in applied mathematics, I focus on building mathematically sound,
+> scalable architectures, strict state management, and secure financial transactions.
 
-**Skills:**
+**💻Tech Stack & Skills:**
 ---
 **Programming languages**
 <br>
@@ -9,8 +12,8 @@
 ![](https://img.shields.io/badge/C++-C9145D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Cㅤ-F01D71?style=for-the-badge&logo=c&logoColor=white&width=80)
 ---
-**Back-end skills & Database:**
-<br><br>
+**Back-end & Database:**
+<br>
 ![](https://img.shields.io/badge/PostgreSQL-A61690?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/Dockerㅤ-B51F9F?style=for-the-badge&logo=docker&logoColor=white)
